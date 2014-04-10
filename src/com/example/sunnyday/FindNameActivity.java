@@ -28,7 +28,7 @@ public class FindNameActivity extends ActionBarActivity {
 		textView.setTextSize(40);
 		textView.setText(message);
 		
-		// Set the text view as the activity layout
+		// Set the text view the activity layout
 		setContentView(textView);		
 	}
 
